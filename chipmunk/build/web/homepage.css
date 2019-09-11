@@ -1,0 +1,151 @@
+.logo h1{
+	position:relative;
+	top:-30px;
+	left:10px;
+	font-size:59px;
+	margin:8px;
+	padding:50px;
+	text-align:center;
+	font-family:courier,cursive;
+	font-style:italic;
+	color:solid gray;
+	text-shadow: 3px 2px gray;
+}
+body{
+	background-color:#c0c0c0;
+}
+.logo img{
+	position:absolute;
+	top:-40px;
+	float:left;
+	height:200px;
+	width:200px;
+}
+h2{
+	text-align:right;
+	font-size: 50px;
+}
+.description{
+	position:relative;
+        border-radius: 30px;
+  	text-align:center;
+  	font-style:italic;
+	border-style:inset;
+	border:2px;
+        background-color: #f9fcff;
+        background-image: linear-gradient(147deg, #f9fcff 0%, #dee4ea 74%);
+        color:solid black;
+	width:600px;
+	height:500px;
+	margin-top:50px;
+	right:-580px;
+}
+.backg{
+background-color: #d3d3d3;
+background-image: linear-gradient(315deg, #EFEFBB 0%, #D4D3DD 74%);
+}
+.backg2{
+background-color: #d3d3d3;
+background-image: linear-gradient(315deg, #E6DADA 0%, #274046 74%);
+}
+.carouselslide{
+	position:absolute;
+	top:1350px;
+	right:50px;
+}
+.facts li{
+	
+}
+.mainpic img{
+height: 600px;
+width: 400px;
+left:40px;
+}
+.navbar{
+	top:-25px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   width:1400px;
+  overflow: hidden;
+  background-color: #333;
+}
+.header li {
+  font-size:10px;
+  height:40px;
+  float: left;
+  border-right:1px solid #bbb;
+}
+.item img{
+	heigh:400px;
+	width:400px;
+}
+.header li:last-child {
+  border-right: none;
+}
+
+.header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 105px;
+  text-decoration: none;
+}
+
+.header li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+.chipmunk{
+	position:absolute;
+	display:inline-flex;
+	margin-left:20px;
+}
+.myCarousel{
+	background-color: #d3d3d3;
+background-image: linear-gradient(315deg, #E6DADA 0%, #274046 74%);
+}
+.reviewcontainer{
+	position:relative;
+	border:2px;
+	width:800px;
+	height:400px;
+    background-image: linear-gradient(to left top, #aca2a8, #bbb2b7, #cbc2c7, #dad2d7, #eae3e7, #f0eaee, #f6f1f5, #fcf8fc, #faf8fb, #f8f7f9, #f7f7f8, #f6f6f6);
+    bottom:15px;
+    left:40px;
+}
+.review{
+	position:relative;
+    bottom:15px;
+    left:40px;
+}
+.socialmedia{
+  padding: 20px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.socialmedia:hover {
+    opacity: 0.7;
+}
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+.snapchat {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+

@@ -1,0 +1,42 @@
+h1{
+	text-align:center;
+}
+.product1{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:left;
+}
+.product2{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:right;
+}
+.product3{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:left;
+}
+.product4{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:right;
+}
+.product5{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:left;
+}
+.product6{
+	border:2px solid black;
+	margin:100px;
+	padding:20px;
+	float:right;
+}
+p{
+	display:inline;
+}
