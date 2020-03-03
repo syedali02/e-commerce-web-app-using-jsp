@@ -1,4 +1,5 @@
 Created an e-commerce application from scratch using HTML,CSS,Bootstrap,JavaScript,JSP.
+My projects name is Charlie's Chipmunk Castle.Basically a chipmunk owner who started his own business of selling chipmunk accessories and training/workshop for chipmunks.
 The front end of the application is all designed with CSS and bootstrap frameworks.
 A user can login/sign up once they enter the application. 
 Once the user is in , he/she has the option of purchasing any product they want from the accessories page.
