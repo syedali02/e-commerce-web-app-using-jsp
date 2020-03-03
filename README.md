@@ -6,3 +6,4 @@ Users can chose the number of items they want and simply click on add to cart. O
 they can click view cart and see all the selected items they choose with the total prices including tax.
 This was a project I created for my web application class. 
 When the user clicks on the add to cart, the items are stored in the database and then retreived back when the user views the cart.
+I have used Apache tomcat server to deploy and run this application.
